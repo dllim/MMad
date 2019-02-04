@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/FindThreads.cmake
+C:/Users/daryl/source/repos/ModularMadness/ModularMadness/Modular Madness/tests/googletest/googlemock/CMakeLists.txt
+C:/Users/daryl/source/repos/ModularMadness/ModularMadness/Modular Madness/tests/googletest/googlemock/cmake/gmock.pc.in
+C:/Users/daryl/source/repos/ModularMadness/ModularMadness/Modular Madness/tests/googletest/googlemock/cmake/gmock_main.pc.in

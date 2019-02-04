@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.13/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.13/Modules/GNUInstallDirs.cmake
+C:/Users/daryl/source/repos/ModularMadness/ModularMadness/Modular Madness/tests/googletest/CMakeLists.txt
